@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb640c56-2a0c-4c3b-bd1a-907872529e10" name="Changes" comment="day11 project completed">
-      <change afterPath="$PROJECT_DIR$/day12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12/guessing_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +148,7 @@
       <workItem from="1785928660407" duration="1677000" />
       <workItem from="1785959974779" duration="2036000" />
       <workItem from="1786005584795" duration="2369000" />
+      <workItem from="1786048678904" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="day1 project completed">
       <option name="closed" value="true" />
